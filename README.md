@@ -1,2 +1,5 @@
 # GravitronV1
+Fun with gravity! WASD or Arrow keys to move. Mouse to look around. Hold down left mouse button is to "climb" things. Shift is to sprint. Space to jump.
+V1 is this playtest level. Future installments will include things like random level generators, modifying presets (like how big planets are, how big the gravity goes/the strength, how many planets to choose from in random generation), changing the player trail effects and colors, adding more non-gravity obstacles like blocks to hit. Also looking to include new presets like distorted gravity fields, water locations, bouncy surfaces.
+For puzzle levels there will most likely remain the options to edit player settings, however for each "level" (not a sandbox) there will be recommended settings for a moderate challenge.
 Simply put, this is a game about gravity! Going to develop in to a puzzle-game, and possibly a level generator, as well as editing prefab settings and spicing things up. Please make sure to check the credits in-game.
